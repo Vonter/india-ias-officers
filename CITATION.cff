@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+author
+- family-names: "Matthew"
+  given-names: "Vivek"
+  orcid: https://orcid.org/0009-0003-2627-7788
+title: "India IAS Officers"
+version: 2026.06.19
+url: "https://github.com/Vonter/india-ias-officers"
+date-released: 2026-06-19
+preferred-citation:
+  url: "https://github.com/Vonter/india-ias-officers"
+  type: data
+  authors:
+  - family-names: "Matthew"
+    given-names: "Vivek"
+    orcid: "https://orcid.org/0009-0003-2627-7788"
+  title: "India IAS Officers"
