@@ -2,7 +2,7 @@
 
 Dataset of IAS (Indian Administrative Service) officer profiles. Sourced from the [SUPREMO IAS officer directory](https://supremo.dopt.gov.in/knowyourofficerIAs.aspx) maintained by the Department of Personnel & Training (DoPT).
 
-View the raw dataset [here](https://hyparam.github.io/demos/hyparquet/?key=https%3A%2F%2Fraw.githubusercontent.com%2FVonter%2Findia-ias-officers%2Fmain%2Fdata%2Fpartial%2Fofficers.parquet?raw=1).
+View the raw dataset [here](https://hyparam.github.io/demos/hyparquet/?key=https%3A%2F%2Fraw.githubusercontent.com%2FVonter%2Findia-ias-officers%2Fmain%2Fdata%2Fcombined.parquet?raw=1).
 
 Explore the data on [https://india-ias-officers.pages.dev](https://india-ias-officers.pages.dev).
 
